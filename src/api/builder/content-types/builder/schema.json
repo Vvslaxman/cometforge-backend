@@ -37,7 +37,8 @@
       "inversedBy": "bookmarks"
     },
     "clerkUserId": {
-      "type": "string"
+      "type": "string",
+      "required": true
     }
   }
 }
